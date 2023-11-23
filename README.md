@@ -40,11 +40,11 @@ The project environment requirements are listed in 'requirements.txt'.
 
 ### Requirements
 python = 3.8.0  
-pytorch = 1.11.0 
-deepchem = 2.6.1 
-dgllife = 0.2.9 
-scikit-learn = 0.24.2 
-numpy = 1.22.1 
-pandas = 1.4.2 
-rdkit = 2022.03.2 
-gseapy = 1.1.0
+pytorch = 1.11.0  
+deepchem = 2.6.1  
+dgllife = 0.2.9  
+scikit-learn = 0.24.2  
+numpy = 1.22.1  
+pandas = 1.4.2  
+rdkit = 2022.03.2  
+gseapy = 1.1.0  
